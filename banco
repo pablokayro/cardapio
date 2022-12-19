@@ -1,0 +1,46 @@
+{
+"data":[
+  {
+    id:0, 
+    nome:"Buffalo Angus", 
+    preco: 34.9,
+    logo: "https://assets.unileversolutions.com/recipes-v2/230447.jpg",
+    descricao: "Pão Brioche, Alface, Tomate, Cebola, blende de 180g de fraldinha, Bacon e Molho Cheddar cremoso Artesasal",
+  },
+  {
+    id:1, 
+    nome:"Salada Burger", 
+    preco: 29.99,
+    logo: "https://receitinhas.com.br/wp-content/uploads/2022/09/230446.jpg",
+    descricao: "Pão Brioche, Alface, Tomate, Cebola, blende de 180g de fraldinha, Bacon e Molho Cheddar cremoso Artesasal",
+  },
+  {
+    id:2, 
+    nome:"Orion Burguer", 
+    preco: 27.99,
+    logo: "https://assets.unileversolutions.com/recipes-v2/230411.jpg",
+    descricao: "Pão Brioche, Alface, Tomate, Cebola, blende de 180g de fraldinha, Bacon e Molho Cheddar cremoso Artesasal",
+  },
+  {
+    id:3, 
+    nome:"Mega Pepper Burguer", 
+    preco: 32.19,
+    logo: "https://assets.unileversolutions.com/recipes-v2/230452.jpg",
+    descricao: "Pão Brioche, Alface, Tomate, Cebola, blende de 180g de fraldinha, Bacon e Molho Cheddar cremoso Artesasal",
+  },
+  {
+    id:4, 
+    nome:"Burguinho", 
+    preco: 18.99,
+    logo: "https://p2.trrsf.com/image/fget/cf/648/0/images.terra.com/2022/05/28/928209592-dia-do-hamburguer.png",
+    descricao: "Pão Brioche, Alface, Tomate, Cebola, blende de 180g de fraldinha, Bacon e Molho Cheddar cremoso Artesasal",
+  },
+  {
+    id:5, 
+    nome:"Double Chees", 
+    preco: 41.99,
+    logo: "https://hpg.com.br/wp-content/uploads/2022/04/10-Melhores-Hamburguerias-SP.jpg",
+    descricao: "Pão Brioche, Alface, Tomate, Cebola, blende de 180g de fraldinha, Bacon e Molho Cheddar cremoso Artesasal",
+  },
+]
+}
